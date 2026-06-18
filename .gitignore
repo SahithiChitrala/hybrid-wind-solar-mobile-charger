@@ -1,0 +1,13 @@
+# Images
+
+*.tmp
+*.bak
+
+# VS Code
+
+.vscode/
+
+# OS files
+
+.DS_Store
+Thumbs.db
